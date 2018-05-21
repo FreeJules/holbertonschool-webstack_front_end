@@ -8,6 +8,7 @@
 - [Sass references](https://intranet.hbtn.io/rltoken/ahyKcZsDBsxjpMANqinZBA)
 - [The Sass Way](https://intranet.hbtn.io/rltoken/hWUCTOThzw9DvWmXBLSXPg)
 - [Implementing Bubble Sort With Sass](http://thesassway.com/advanced/implementing-bubble-sort-with-sass)
+- [Sorting Function](https://css-tricks.com/snippets/sass/sorting-function/)
 
 ### What you should learn from this project
 
