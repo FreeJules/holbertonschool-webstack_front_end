@@ -7,6 +7,7 @@
 ### References:
 - [Sass references](https://intranet.hbtn.io/rltoken/ahyKcZsDBsxjpMANqinZBA)
 - [The Sass Way](https://intranet.hbtn.io/rltoken/hWUCTOThzw9DvWmXBLSXPg)
+- [Implementing Bubble Sort With Sass](http://thesassway.com/advanced/implementing-bubble-sort-with-sass)
 
 ### What you should learn from this project
 
